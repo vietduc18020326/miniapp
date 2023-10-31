@@ -1,0 +1,9 @@
+(self.webpackChunkBooking=self.webpackChunkBooking||[]).push([["src_booking_screens_CalendarScreen_FilterBookingScreen_index_tsx"],{79278:function(e,t,r){Object.defineProperty(t,"__esModule",{value:!0}),t.FilterBookingScreen=void 0;var o=r(84481),n=r(91087),i=r(92571),l=r(4007),s=r(25277),a=r(46763),d=r(33823),u=(t.FilterBookingScreen=(0,o.memo)((function(){var e=(0,l.useTheme)();(0,a.useSharedValue)({status:""});return(0,d.jsxs)(n.FullScreenWrapper,{children:[(0,d.jsx)(n.DynamicHeader,{title:"Filter",leftComponent:(0,d.jsx)(i.View,{}),rightComponent:(0,d.jsx)(u,{onPress:l.goBack})}),(0,d.jsx)(c,{}),(0,d.jsx)(p,{buttons:[{title:"Reset",backgroundColor:e.white,style:{borderWidth:1,borderColor:e.primaryColor,borderRadius:8},textStyle:Object.assign({},n.UITextStyle.button_large),textColor:e.primaryColor},{title:"Apply",backgroundColor:e.primaryColor,textStyle:Object.assign({},n.UITextStyle.button_large),textColor:e.white}]})]})})),(0,l.styled)(n.UIButton).attrs((function(e){return{source:s.Icons.Filled.X_MARK,imageSize:24,imageStyle:{tintColor:e.theme.neutral1}}}))`
+  padding-right: 16px;
+`),c=l.styled.ScrollView`
+  padding: 12px 16px;
+`,p=(0,l.styled)(n.UIBottomButton)`
+  padding: 8px 16px;
+  border-top-width: 1px;
+  border-color: ${function(e){return e.theme.primaryColor}};
+`}}]);//# sourceMappingURL=src_booking_screens_CalendarScreen_FilterBookingScreen_index_tsx.chunk.bundle.map?platform=android
